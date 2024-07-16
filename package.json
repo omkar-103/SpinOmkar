@@ -16,7 +16,6 @@
   "dependencies": {
     "csv": "^6.3.5",
     "events": "^3.3.0",
-    "gh-pages": "^6.1.1",
     "pako": "^2.1.0",
     "pouchdb-browser": "^8.0.1",
     "pouchdb-find": "^8.0.1",
@@ -42,6 +41,7 @@
     "@vue/tsconfig": "^0.4.0",
     "eslint": "^8.49.0",
     "eslint-plugin-vue": "^9.19.2",
+    "gh-pages": "^6.1.1",
     "npm-run-all2": "^6.0.6",
     "prettier": "^3.0.3",
     "sass": "^1.69.0",
