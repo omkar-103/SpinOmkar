@@ -16,7 +16,7 @@ The Wheel of Destiny is an engaging and fun application designed for the orienta
 - No Sound Effects: The current version does not include sound effects.
 - No OBS Mode Support: OBS mode is not supported in this version.
 
-  ![Alt text](img/img2.png)
+![Alt text](img/img2.png)
 
 ## Contributions
 
