@@ -1,10 +1,15 @@
 
 # The Wheel of Destiny
 
-The Wheel of Destiny is an engaging and fun application designed for the orientation of "MD College". It allows users to edit the names of FY students and spin a virtual wheel to determine their fate in various fun activities.
+<u>The Wheel of Destiny </u> is an engaging and fun application designed for the orientation of <b><h2> "MD College" </h2></b>. 
+<br>
+It allows users to edit the names of <i>FY students</i> and <u>spin a virtual wheel</u> to determine their fate in various fun activities.
+
+<br><br>
 
 ![Alt text](img/img1.png)
 
+<br>
 
 ## Features
 
@@ -16,8 +21,13 @@ The Wheel of Destiny is an engaging and fun application designed for the orienta
 - No Sound Effects: The current version does not include sound effects.
 - No OBS Mode Support: OBS mode is not supported in this version.
 
+<br>
+<br>
 ![Alt text](img/img2.png)
 
+
+<br>
+<br>
 ## Contributions
 
 Contributions are welcome! If you have suggestions for improvements or new features, please feel free to submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
