@@ -456,7 +456,7 @@ export const templateItems = [
     },
     {
       group: "Who's the next Participant?",
-      label: 'Rajesh Kunal',
+      label: 'Kunal Rajesh',
       weight: 1,
       order: 68
     },
