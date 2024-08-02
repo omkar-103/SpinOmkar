@@ -645,7 +645,7 @@ export const templateItems = [
       label: 'Riddhesh Wagvekar',
       weight: 1,
       order: 99
-    }
+    },
     
     
   
