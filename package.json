@@ -49,8 +49,7 @@
     "vite": "^4.5.3",
     "vite-plugin-pwa": "^0.16.5",
     "vite-plugin-static-copy": "^0.17.1",
-    "vue-tsc": "^1.8.11"
+    "vue-tsc": "^2.0.29"
   },
- "homepage": "https://omkar-103.github.io/SpinOmkar"
-
+  "homepage": "https://omkar-103.github.io/SpinOmkar"
 }

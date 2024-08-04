@@ -354,299 +354,43 @@ export const templateItems = [
     },
     {
       group: "Who's the next Participant?",
-      label: 'Chaitanya Devgude',
+      label: 'Siddhesh Sawant',
       weight: 1,
       order: 51
     },
     {
       group: "Who's the next Participant?",
-      label: 'Aditya Dhamankar',
+      label: 'Kishor Singh',
       weight: 1,
       order: 52
     },
+
     {
       group: "Who's the next Participant?",
-      label: 'Omkar Dhembre',
+      label: 'Smith Pale',
       weight: 1,
       order: 53
     },
     {
       group: "Who's the next Participant?",
-      label: 'Darshan Didul',
+      label: 'Riya Thombare',
       weight: 1,
       order: 54
     },
+
     {
       group: "Who's the next Participant?",
-      label: 'Kirti Dunka',
+      label: 'Kunal Rajesh',
       weight: 1,
       order: 55
     },
     {
       group: "Who's the next Participant?",
-      label: 'Navadeesh Gangadhari',
+      label: 'Sahil Rane',
       weight: 1,
       order: 56
     },
-    {
-      group: "Who's the next Participant?",
-      label: 'Kartik Gawali',
-      weight: 1,
-      order: 57
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Nithin Gelle',
-      weight: 1,
-      order: 58
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Roshan Ghanekar',
-      weight: 1,
-      order: 59
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Diksha Godase',
-      weight: 1,
-      order: 60
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Sahil Hawaldar',
-      weight: 1,
-      order: 61
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Shulin Juvatkar',
-      weight: 1,
-      order: 62
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Pradynesh Kadam',
-      weight: 1,
-      order: 63
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Aayush Kanse',
-      weight: 1,
-      order: 64
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Ruchita Khair',
-      weight: 1,
-      order: 65
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Sharvari Khetle',
-      weight: 1,
-      order: 66
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Shraddha Khodade',
-      weight: 1,
-      order: 67
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Kunal Rajesh',
-      weight: 1,
-      order: 68
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Aayush Mahadik',
-      weight: 1,
-      order: 69
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Alok Mane',
-      weight: 1,
-      order: 70
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Omraj Mhaskar',
-      weight: 1,
-      order: 71
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Vighnesh Navle',
-      weight: 1,
-      order: 72
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Ansh Nikam',
-      weight: 1,
-      order: 73
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Abhijit Padwal',
-      weight: 1,
-      order: 74
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Jitendra Pandit',
-      weight: 1,
-      order: 75
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Harshad Parab',
-      weight: 1,
-      order: 76
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Ruchika Parab',
-      weight: 1,
-      order: 77
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Hrutika Parshuram',
-      weight: 1,
-      order: 78
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Ayush Patil',
-      weight: 1,
-      order: 79
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Bhagyesh Patil',
-      weight: 1,
-      order: 80
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Deep Patil',
-      weight: 1,
-      order: 81
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Shruti Pawar',
-      weight: 1,
-      order: 82
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Sahil Rane',
-      weight: 1,
-      order: 83
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Vivek Rane',
-      weight: 1,
-      order: 84
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Siddhesh Sarode',
-      weight: 1,
-      order: 85
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Shreyash Savardekar',
-      weight: 1,
-      order: 86
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Sakshi Sawant',
-      weight: 1,
-      order: 87
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Siddhesh Sawant',
-      weight: 1,
-      order: 88
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Rashi Shelar',
-      weight: 1,
-      order: 89
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Isha Shilkar',
-      weight: 1,
-      order: 90
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Rushikesh Shingate',
-      weight: 1,
-      order: 91
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Ayush Singh',
-      weight: 1,
-      order: 92
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Kishor Singh',
-      weight: 1,
-      order: 93
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Anushka Suryavanshi',
-      weight: 1,
-      order: 94
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Riya Thombare',
-      weight: 1,
-      order: 95
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Neeraj Tiwari',
-      weight: 1,
-      order: 96
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Raj Tiwari',
-      weight: 1,
-      order: 97
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Sandhiya Vakkaliga',
-      weight: 1,
-      order: 98
-    },
-    {
-      group: "Who's the next Participant?",
-      label: 'Riddhesh Wagvekar',
-      weight: 1,
-      order: 99
-    },
-    
+   
     
   
   
