@@ -7,7 +7,7 @@ import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/SpinOmkar/',
+  base: './',
   build: {
     target: 'es2022',
     sourcemap: true,
